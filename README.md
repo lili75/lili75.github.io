@@ -1,5 +1,5 @@
 README.md :
 Exercice Javascript
-lili75.github.io
+https://lili75.github.io/
 
 
